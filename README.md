@@ -1,4 +1,4 @@
-## analisador de cobras...
+## Minha cobra ta a solta 🐍
 
 ![snake gif](https://github.com/AlexLopes223/AlexLopes223/blob/output/github-contribution-grid-snake.gif)
 <!--
